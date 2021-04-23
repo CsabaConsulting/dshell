@@ -1,0 +1,3 @@
+name: dshell
+dependencies: 
+  dcli: ^0.32.0
